@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Application\\": "module/Application/src/"
+            "Application\\": "module/Application/src/",
+            "LaminasUser\\": "module/LaminasUser/src/"
         }
     },
     "autoload-dev": {
